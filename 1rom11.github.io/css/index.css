@@ -1,0 +1,39 @@
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: dotted;
+  border-radius: 15px;
+  position:relative;
+}
+
+.button:active {
+  transform: translateY(4px);
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+}
+
+.socials a:active {
+  color:black;
+}
+.email {background-color: #04AA6D;}
+.email:hover {background-color: #3e8e41; box-shadow: 0 9px #999;}
+.email:active {background-color: #3e8e41; box-shadow: 0 5px #666;}
+.steam {background-color: #2a475e;}
+.steam:hover {background-color: #1b2838; box-shadow: 0 9px #999;}
+.steam:active{background-color: #1b2838; box-shadow: 0 5px #666;}
+.youtube {background-color: #FF6443;}
+.youtube:hover {background-color: #FF0000; box-shadow: 0 9px #999;}
+.youtube:active{background-color: #FF0000; box-shadow: 0 5px #666;}
+.github {background-color: #393939;}
+.github:hover {background-color: #211F1F; box-shadow: 0 9px #999;}
+.github:active{background-color: #211F1F; box-shadow: 0 5px #666;}
+.twitter {  background-color: #1DA1F2;}
+.twitter:hover {background-color: #0186D8; box-shadow: 0 9px #999;}
+.twitter:active{background-color: #0186D8; box-shadow: 0 5px #666;}
