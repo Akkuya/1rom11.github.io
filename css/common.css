@@ -24,7 +24,11 @@ p {
 
 
 .pill {
-  display:inline-block;
+<<<<<<< HEAD
+  display:inline-flex;
+=======
+  display:inline-flex;
+>>>>>>> 0f67cdaedf0da15368aa562ab948391f86e8ec81
   color: black;
   text-align: center;
   padding: 14px;
@@ -39,5 +43,11 @@ p {
 }
 
 .pill-nav {
+<<<<<<< HEAD
     position: relative;
 }
+=======
+    position: fixed;
+    top:50%;
+}
+>>>>>>> 0f67cdaedf0da15368aa562ab948391f86e8ec81
