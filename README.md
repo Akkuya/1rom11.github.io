@@ -17,7 +17,7 @@ Download [Git Bash](https://git-scm.com/)
 4. **Now you have the code in your hands (computer)**
 
 
-[Click me to access the webpage](https://1rom11.github.io/me/)
+[Click me to access the webpage](https://1rom11.github.io)
 
 ![main](https://user-images.githubusercontent.com/76579908/129463726-a9867749-aed4-4468-8232-b3815f4e54a2.gif)
 
