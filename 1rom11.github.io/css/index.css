@@ -1,0 +1,27 @@
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: dotted;
+  border-radius: 15px;
+  position:relative;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+}
+
+.email {background-color: #04AA6D;}
+.email:hover {background-color: #3e8e41}
+.steam {background-color: #2a475e;}
+.steam:hover {background-color: #1b2838;}
+.youtube {background-color: #FF6443;}
+.youtube:hover {background-color: #FF0000}
+.github {background-color: #393939;}
+.github:hover {background-color: #211F1F}
+.twitter {  background-color: #1DA1F2;}
+.twitter:hover {background-color: #0186D8}
