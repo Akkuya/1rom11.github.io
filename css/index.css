@@ -14,10 +14,10 @@
   color: red;
 }
 
-#projects {
-  position: relative;
-  display: inline-block;
-  justify-content: center;
+.about-me {
+  text-align: center;
+  font-weight: 100;
+  font-size: medium;
 }
 
 .socials {

@@ -4,9 +4,6 @@ body {
   font-family: 'Nunito', sans-serif;
   background-color:white;
 }
-p {
-  font-family: 'Nunito', sans-serif;
-}
 
 h1 {
   text-align: center;
@@ -29,8 +26,6 @@ h1 {
 
 .pill {
   display:inline-flex;
-  display:inline-flex;
-  display:inline-block;
   color: black;
   text-align: center;
   padding: 14px;
@@ -48,8 +43,4 @@ h1 {
 }
 .pill-nav {
     position: relative;
-}
-.pill {
-    position: fixed;
-    top:50%;
 }
