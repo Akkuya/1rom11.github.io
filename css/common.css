@@ -24,7 +24,7 @@ p {
 
 
 .pill {
-  display:block;
+  display:inline-flex;
   color: black;
   text-align: center;
   padding: 14px;
@@ -39,6 +39,5 @@ p {
 }
 
 .pill-nav {
-    position: fixed;
-    top:50%;
+    position: relative;
 }
