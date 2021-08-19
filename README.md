@@ -13,7 +13,7 @@ Download [Git Bash](https://git-scm.com/)
 
 1. **Open [Git Bash](https://git-scm.com/)**
 2. Type ````cd <path>```` like `cd cloned-gits`
-3. Type ````git clone https://github.com/1rom11/github-webpage-1rom11````
+3. Type ````git clone https://github.com/1rom11/1rom11.github.io.git````
 4. **Now you have the code in your hands (computer)**
 
 
