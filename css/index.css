@@ -24,6 +24,7 @@
 .socials {
   display: inline-block;
   justify-content: center;
+  margin: auto;
 }
 
 .email {background-color: #04AA6D;}
