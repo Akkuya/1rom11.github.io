@@ -1,0 +1,2 @@
+language = "html"
+run = "git clone https://github.com/1rom11/1rom11.github.io.git"
